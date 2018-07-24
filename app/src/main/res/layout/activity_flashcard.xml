@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_flashcard"
+    android:orientation="vertical"
+    android:background="@drawable/wallpaper"
+    tools:context="ait.android.flashfluent.FlashcardActivity">
+
+    <RelativeLayout
+        android:background="#e8e3c0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvLanguage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="20dp"
+            android:text="@string/language"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tvCategory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tvLanguage"
+            android:paddingLeft="20dp"
+            android:text="@string/category" />
+
+        <Button
+            android:id="@+id/btnDeleteCustom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/delete_custom"
+            android:textSize="10sp"/>
+
+        <Button
+            android:id="@+id/btnAdd"
+            android:textSize="10sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/btnDeleteCustom"
+            android:layout_toStartOf="@+id/btnDeleteCustom"
+            android:text="@string/add" />
+
+    </RelativeLayout>
+
+    <include layout="@layout/content_main_flashcard" />
+
+
+
+</LinearLayout>

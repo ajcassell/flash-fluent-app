@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">FlashFluent</string>
+
+    <string-array name="language_array">
+        <item>Afrikaans</item>
+        <item>Albanian</item>
+        <item>Amharic</item>
+        <item>Arabic</item>
+        <item>Armenian</item>
+        <item>Azerbaijani</item>
+
+        <item>Basque</item>
+        <item>Belarusian</item>
+        <item>Bengali</item>
+        <item>Bosnian</item>
+        <item>Bulgarian</item>
+        <item>Burmese</item>
+
+        <item>Catalan</item>
+        <item>Cebuano</item>
+        <item>Chichewa</item>
+        <item>Chinese</item>
+        <item>Corsican</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+
+        <item>Danish</item>
+        <item>Dutch</item>
+
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+
+        <item>Filipino</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Frisian</item>
+
+        <item>Galician</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Gujarati</item>
+
+        <item>Haitian Creole</item>
+        <item>Hausa</item>
+        <item>Hawaiian</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hmong</item>
+        <item>Hungarian</item>
+
+        <item>Icelandic</item>
+        <item>Igbo</item>
+        <item>Indonesian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+
+        <item>Japanese</item>
+        <item>Javanese</item>
+
+        <item>Kannada</item>
+        <item>Kazakh</item>
+        <item>Khmer</item>
+        <item>Korean</item>
+        <item>Kurdish (Kurmanji)</item>
+        <item>Kyrgyz</item>
+
+        <item>Lao</item>
+        <item>Latin</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Luxembourgish</item>
+
+        <item>Macedonian</item>
+        <item>Malagasy</item>
+        <item>Malay</item>
+        <item>Malayalam</item>
+        <item>Maltese</item>
+        <item>Maori</item>
+        <item>Marathi</item>
+        <item>Mongolian</item>
+
+        <item>Nepali</item>
+        <item>Norwegian (Bokmål)</item>
+
+        <item>Pashto</item>
+        <item>Persian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Punjabi</item>
+
+        <item>Romanian</item>
+        <item>Russian</item>
+
+        <item>Samoan</item>
+        <item>Scots Gaelic</item>
+        <item>Serbian</item>
+        <item>Sesotho</item>
+        <item>Shona</item>
+        <item>Sindhi</item>
+        <item>Sinhala</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Somali</item>
+        <item>Spanish</item>
+        <item>Sundanese</item>
+        <item>Swahili</item>
+        <item>Swedish</item>
+
+        <item>Tajik</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Uzbek</item>
+
+        <item>Vietnamese</item>
+
+        <item>Welsh</item>
+
+        <item>Xhosa</item>
+
+        <item>Yiddish</item>
+        <item>Yoruba</item>
+
+        <item>Zulu</item>
+
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="globe_info">1. Use GLOBE icon above to select new language. Press again to return to the map and select new location.</string>
+    <string name="delete_info">2. The DELETE icon removes all custom flashcards, not the default.</string>
+    <string name="flash_fluent">FlashFluent</string>
+    <string name="select_language_from_list">Select Language from List</string>
+    <string name="enter">Enter</string>
+    <string name="delete_custom">Delete Custom</string>
+    <string name="itemhandler_interface_not_implemented">Error: ItemHandler interface was not implemented</string>
+    <string name="edit">Edit</string>
+    <string name="field_cannot_be_empty">This field cannot be empty</string>
+    <string name="languagehandler_interface_not_implemented">Error: LanguageHandler interface was not implemented</string>
+    <string name="language">Language</string>
+    <string name="category">Category</string>
+    <string name="isNew">isNew</string>
+    <string name="list">List</string>
+    <string name="greetings">Greetings</string>
+    <string name="phrases">Phrases</string>
+    <string name="foods">Foods</string>
+    <string name="places">Places</string>
+    <string name="random">Random</string>
+    <string name="add">Add</string>
+    <string name="record_granted">RECORD_AUDIO perm granted</string>
+    <string name="record_not_granted">RECORD_AUDIO perm NOT granted</string>
+    <string name="add_or_edit_dialog">Add-or-Edit-Dialog</string>
+    <string name="info">Info</string>
+    <string name="ok">OK</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="german">German</string>
+    <string name="italian">Italian</string>
+    <string name="hungarian">Hungarian</string>
+    <string name="key_first">key-first</string>
+    <string name="permission_granted">Permission granted, jupeee!</string>
+    <string name="permission_not_granted">Permission not granted :(</string>
+    <string name="hungary">Hungary</string>
+    <string name="must_select_new_language">Must select a NEW language</string>
+    <string name="language_not_supported">This language not supported</string>
+    <string name="ask_dialog">AskDialog</string>
+    <string name="info_dialog">InfoDialog</string>
+    <string name="country">Country</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
